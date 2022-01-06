@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using WarCroft.Constants;
+using WarCroft.Entities.Characters.Contracts;
+using WarCroft.Entities.Inventory;
+
+namespace WarCroft.Entities.Characters
+{
+    public class Warrior : Character, IAttacker
+    {
+        private const double defaultHealth = 100;
+        private const double defaultArmor = 50;
+        private const double defaultAbilityPoints = 40;
+        // satchel bag
+        public Warrior(string name) 
+            : base(name, defaultHealth, defaultArmor, defaultAbilityPoints, new Satchel())
+        {
+        }
+
+        public void Attack(Character character)
+        {
+            this.EnsureAlive();
+
+            if(character.Equals(this))
+            {
+                throw new InvalidOperationException(ExceptionMessages.CharacterAttacksSelf);
+            }
+
+            character.TakeDamage(this.AbilityPoints);
+        }
+    }
+}
