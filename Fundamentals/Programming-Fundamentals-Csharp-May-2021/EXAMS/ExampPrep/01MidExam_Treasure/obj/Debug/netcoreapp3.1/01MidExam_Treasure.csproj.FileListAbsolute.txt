@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.exe
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.deps.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\bin\Debug\netcoreapp3.1\01MidExam_Treasure.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_Treasure\obj\Debug\netcoreapp3.1\01MidExam_Treasure.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.exe
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.deps.json
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.dll
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\bin\Debug\netcoreapp3.1\AssociativeArray01.pdb
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.dll
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.pdb
+C:\Users\User\source\repos\ExampPrep\AssociativeArray01\obj\Debug\netcoreapp3.1\AssociativeArray01.genruntimeconfig.cache

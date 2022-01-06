@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.exe
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.deps.json
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\Users\User\source\repos\ExampPrep\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.exe
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.deps.json
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.dll
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\bin\Debug\netcoreapp3.1\arrayCountNEgatives.pdb
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.dll
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.pdb
+C:\Users\User\source\repos\ExampPrep\arrayCountNEgatives\obj\Debug\netcoreapp3.1\arrayCountNEgatives.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.exe
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.deps.json
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.dll
+C:\Users\User\source\repos\ExampPrep\02CommonElements\bin\Debug\netcoreapp3.1\02CommonElements.pdb
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.dll
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.pdb
+C:\Users\User\source\repos\ExampPrep\02CommonElements\obj\Debug\netcoreapp3.1\02CommonElements.genruntimeconfig.cache

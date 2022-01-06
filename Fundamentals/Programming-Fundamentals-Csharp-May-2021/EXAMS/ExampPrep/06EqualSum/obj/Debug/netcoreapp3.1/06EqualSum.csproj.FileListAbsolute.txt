@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.exe
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.deps.json
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.dll
+C:\Users\User\source\repos\ExampPrep\06EqualSum\bin\Debug\netcoreapp3.1\06EqualSum.pdb
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.dll
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.pdb
+C:\Users\User\source\repos\ExampPrep\06EqualSum\obj\Debug\netcoreapp3.1\06EqualSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.exe
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.deps.json
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.runtimeconfig.json
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.dll
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\bin\Debug\netcoreapp3.1\GenericsExcercise.pdb
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.dll
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.pdb
+C:\Users\User\source\repos\GenericsExcercise\GenericsExcercise\obj\Debug\netcoreapp3.1\GenericsExcercise.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.exe
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.deps.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.dll
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\bin\Debug\netcoreapp3.1\02MidExam_ShoppingList.pdb
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.dll
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.pdb
+C:\Users\User\source\repos\ExampPrep\02MidExam_ShoppingList\obj\Debug\netcoreapp3.1\02MidExam_ShoppingList.genruntimeconfig.cache

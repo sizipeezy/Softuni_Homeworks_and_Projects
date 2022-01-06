@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.exe
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.deps.json
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.dll
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\bin\Debug\netcoreapp3.1\01Schudelling.pdb
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.dll
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.pdb
+C:\Users\User\source\repos\AdvancedExam25October2020\01Schudelling\obj\Debug\netcoreapp3.1\01Schudelling.genruntimeconfig.cache

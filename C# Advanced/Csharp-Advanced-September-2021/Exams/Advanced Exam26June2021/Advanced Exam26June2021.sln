@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Survivor", "02Survivor\02Survivor.csproj", "{E734E8AE-3484-4924-B1C4-8F1999703F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01MasterChef", "01MasterChef\01MasterChef.csproj", "{101AE02C-9AFF-4CB2-8CEE-E561E3F0933E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E734E8AE-3484-4924-B1C4-8F1999703F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E734E8AE-3484-4924-B1C4-8F1999703F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E734E8AE-3484-4924-B1C4-8F1999703F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E734E8AE-3484-4924-B1C4-8F1999703F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101AE02C-9AFF-4CB2-8CEE-E561E3F0933E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101AE02C-9AFF-4CB2-8CEE-E561E3F0933E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101AE02C-9AFF-4CB2-8CEE-E561E3F0933E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101AE02C-9AFF-4CB2-8CEE-E561E3F0933E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25750AB6-BE16-463E-ADC2-6A3F261FCFBC}
+	EndGlobalSection
+EndGlobal

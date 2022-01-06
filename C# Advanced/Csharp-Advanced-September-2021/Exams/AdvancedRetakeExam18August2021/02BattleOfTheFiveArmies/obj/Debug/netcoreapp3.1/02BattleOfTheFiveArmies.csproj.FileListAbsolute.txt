@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.exe
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.deps.json
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.dll
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.dll
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam18August2021\02BattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\02BattleOfTheFiveArmies.genruntimeconfig.cache

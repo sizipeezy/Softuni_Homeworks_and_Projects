@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.exe
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.deps.json
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.dll
+C:\Users\User\source\repos\ExampPrep\02Grades\bin\Debug\netcoreapp3.1\02Grades.pdb
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.dll
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.pdb
+C:\Users\User\source\repos\ExampPrep\02Grades\obj\Debug\netcoreapp3.1\02Grades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.exe
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.deps.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.dll
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.dll
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.genruntimeconfig.cache

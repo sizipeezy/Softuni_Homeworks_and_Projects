@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.exe
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.deps.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\bin\Debug\netcoreapp3.1\01MidExam_ArrayModifier.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_ArrayModifier\obj\Debug\netcoreapp3.1\01MidExam_ArrayModifier.genruntimeconfig.cache

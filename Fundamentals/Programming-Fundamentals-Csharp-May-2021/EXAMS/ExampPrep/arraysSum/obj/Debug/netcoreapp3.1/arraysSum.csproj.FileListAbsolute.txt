@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.exe
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.deps.json
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.dll
+C:\Users\User\source\repos\ExampPrep\arraysSum\bin\Debug\netcoreapp3.1\arraysSum.pdb
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.dll
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.pdb
+C:\Users\User\source\repos\ExampPrep\arraysSum\obj\Debug\netcoreapp3.1\arraysSum.genruntimeconfig.cache

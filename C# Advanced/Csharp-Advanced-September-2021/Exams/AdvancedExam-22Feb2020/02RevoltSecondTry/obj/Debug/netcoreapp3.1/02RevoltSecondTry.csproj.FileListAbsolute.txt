@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.exe
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.deps.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.dll
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\bin\Debug\netcoreapp3.1\02RevoltSecondTry.pdb
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.dll
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.pdb
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02RevoltSecondTry\obj\Debug\netcoreapp3.1\02RevoltSecondTry.genruntimeconfig.cache

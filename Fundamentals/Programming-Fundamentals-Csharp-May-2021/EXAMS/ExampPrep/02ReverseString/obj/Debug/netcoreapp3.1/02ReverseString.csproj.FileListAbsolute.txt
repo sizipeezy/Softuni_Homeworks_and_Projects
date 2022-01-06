@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.exe
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.deps.json
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.dll
+C:\Users\User\source\repos\ExampPrep\02ReverseString\bin\Debug\netcoreapp3.1\02ReverseString.pdb
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.dll
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.pdb
+C:\Users\User\source\repos\ExampPrep\02ReverseString\obj\Debug\netcoreapp3.1\02ReverseString.genruntimeconfig.cache

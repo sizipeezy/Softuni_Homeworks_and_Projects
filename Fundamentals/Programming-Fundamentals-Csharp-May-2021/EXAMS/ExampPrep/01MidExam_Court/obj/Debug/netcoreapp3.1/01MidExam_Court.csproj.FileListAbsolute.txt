@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.exe
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.deps.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\bin\Debug\netcoreapp3.1\01MidExam_Court.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_Court\obj\Debug\netcoreapp3.1\01MidExam_Court.genruntimeconfig.cache

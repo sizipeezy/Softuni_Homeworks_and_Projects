@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.exe
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.deps.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.dll
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\bin\Debug\netcoreapp3.1\02Seilling.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.dll
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\02Seilling\obj\Debug\netcoreapp3.1\02Seilling.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.exe
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.deps.json
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.dll
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\bin\Debug\netcoreapp3.1\04TextFIlter.pdb
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.dll
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.pdb
+C:\Users\User\source\repos\ExampPrep\04TextFIlter\obj\Debug\netcoreapp3.1\04TextFIlter.genruntimeconfig.cache

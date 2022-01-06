@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.exe
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.deps.json
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.dll
+C:\Users\User\source\repos\ExampPrep\regex\bin\Debug\netcoreapp3.1\regex.pdb
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.dll
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.pdb
+C:\Users\User\source\repos\ExampPrep\regex\obj\Debug\netcoreapp3.1\regex.genruntimeconfig.cache

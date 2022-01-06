@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.exe
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.deps.json
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.dll
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\bin\Debug\netcoreapp3.1\08MagicSUm.pdb
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.dll
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.pdb
+C:\Users\User\source\repos\ExampPrep\08MagicSUm\obj\Debug\netcoreapp3.1\08MagicSUm.genruntimeconfig.cache

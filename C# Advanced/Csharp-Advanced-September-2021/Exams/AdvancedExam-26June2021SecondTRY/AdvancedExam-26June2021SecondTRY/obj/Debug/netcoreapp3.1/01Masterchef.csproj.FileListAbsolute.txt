@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.exe
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.deps.json
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.dll
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\bin\Debug\netcoreapp3.1\01Masterchef.pdb
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.dll
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.pdb
+C:\Users\User\source\repos\AdvancedExam-26June2021SecondTRY\AdvancedExam-26June2021SecondTRY\obj\Debug\netcoreapp3.1\01Masterchef.genruntimeconfig.cache

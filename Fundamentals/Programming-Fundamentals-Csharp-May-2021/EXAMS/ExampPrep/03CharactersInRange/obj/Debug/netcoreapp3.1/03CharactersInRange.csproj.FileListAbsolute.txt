@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.exe
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.deps.json
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.dll
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\bin\Debug\netcoreapp3.1\03CharactersInRange.pdb
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.dll
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.pdb
+C:\Users\User\source\repos\ExampPrep\03CharactersInRange\obj\Debug\netcoreapp3.1\03CharactersInRange.genruntimeconfig.cache

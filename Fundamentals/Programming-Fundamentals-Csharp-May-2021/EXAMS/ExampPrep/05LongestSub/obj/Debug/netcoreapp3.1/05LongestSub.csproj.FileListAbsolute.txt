@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.exe
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.deps.json
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.dll
+C:\Users\User\source\repos\ExampPrep\05LongestSub\bin\Debug\netcoreapp3.1\05LongestSub.pdb
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.dll
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.pdb
+C:\Users\User\source\repos\ExampPrep\05LongestSub\obj\Debug\netcoreapp3.1\05LongestSub.genruntimeconfig.cache

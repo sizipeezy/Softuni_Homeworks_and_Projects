@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.exe
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.deps.json
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\Users\User\source\repos\ExampPrep\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.genruntimeconfig.cache

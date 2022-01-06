@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Cooking", "RetakeExam16December2020\01Cooking.csproj", "{071A6DAC-C8EE-4B3E-89B1-CB6D6AED5B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Selling", "02Selling\02Selling.csproj", "{898655F7-67E9-4AD3-A6FC-6646C7F61BB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071A6DAC-C8EE-4B3E-89B1-CB6D6AED5B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071A6DAC-C8EE-4B3E-89B1-CB6D6AED5B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071A6DAC-C8EE-4B3E-89B1-CB6D6AED5B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071A6DAC-C8EE-4B3E-89B1-CB6D6AED5B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898655F7-67E9-4AD3-A6FC-6646C7F61BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898655F7-67E9-4AD3-A6FC-6646C7F61BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898655F7-67E9-4AD3-A6FC-6646C7F61BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898655F7-67E9-4AD3-A6FC-6646C7F61BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7FBD66-1F1A-4D3A-8B59-25FDC025D501}
+	EndGlobalSection
+EndGlobal

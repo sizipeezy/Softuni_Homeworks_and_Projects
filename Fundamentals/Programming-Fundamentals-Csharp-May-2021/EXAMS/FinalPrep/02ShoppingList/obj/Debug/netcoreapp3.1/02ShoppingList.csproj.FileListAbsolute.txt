@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.exe
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.deps.json
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.dll
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\bin\Debug\netcoreapp3.1\02ShoppingList.pdb
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.dll
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.pdb
+C:\Users\User\source\repos\FinalPrep\02ShoppingList\obj\Debug\netcoreapp3.1\02ShoppingList.genruntimeconfig.cache

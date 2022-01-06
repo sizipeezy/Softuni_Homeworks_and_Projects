@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.exe
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.deps.json
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.dll
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\bin\Debug\netcoreapp3.1\03ZigZagArray.pdb
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.dll
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.pdb
+C:\Users\User\source\repos\ExampPrep\03ZigZagArray\obj\Debug\netcoreapp3.1\03ZigZagArray.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.exe
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.deps.json
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.dll
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\bin\Debug\netcoreapp3.1\rememberWhereYouStarted.pdb
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.dll
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.pdb
+C:\Users\User\source\repos\ExampPrep\rememberWhereYouStarted\obj\Debug\netcoreapp3.1\rememberWhereYouStarted.genruntimeconfig.cache

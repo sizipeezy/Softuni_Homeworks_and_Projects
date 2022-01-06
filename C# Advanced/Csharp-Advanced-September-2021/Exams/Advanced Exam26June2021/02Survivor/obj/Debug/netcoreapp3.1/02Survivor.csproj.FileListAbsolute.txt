@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.exe
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.deps.json
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.runtimeconfig.json
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.dll
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\bin\Debug\netcoreapp3.1\02Survivor.pdb
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.dll
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.pdb
+C:\Users\User\source\repos\Advanced Exam26June2021\02Survivor\obj\Debug\netcoreapp3.1\02Survivor.genruntimeconfig.cache

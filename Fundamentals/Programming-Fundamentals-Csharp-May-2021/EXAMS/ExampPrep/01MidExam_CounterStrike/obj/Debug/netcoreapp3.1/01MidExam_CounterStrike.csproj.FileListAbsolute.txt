@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.exe
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.deps.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\bin\Debug\netcoreapp3.1\01MidExam_CounterStrike.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.dll
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.pdb
+C:\Users\User\source\repos\ExampPrep\01MidExam_CounterStrike\obj\Debug\netcoreapp3.1\01MidExam_CounterStrike.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.exe
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.deps.json
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.dll
+C:\Users\User\source\repos\ExampPrep\04DrumSet\bin\Debug\netcoreapp3.1\04DrumSet.pdb
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.dll
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.pdb
+C:\Users\User\source\repos\ExampPrep\04DrumSet\obj\Debug\netcoreapp3.1\04DrumSet.genruntimeconfig.cache

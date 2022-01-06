@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\User\source\repos\AdvancedRetakeExam16December2020\AdvancedRetakeExam16December2020\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache

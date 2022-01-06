@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.exe
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.deps.json
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.dll
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\bin\Debug\netcoreapp3.1\06MaxSequence.pdb
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.dll
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.pdb
+C:\Users\User\source\repos\ExampPrep\06MaxSequence\obj\Debug\netcoreapp3.1\06MaxSequence.genruntimeconfig.cache

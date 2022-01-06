@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+C:\Users\User\source\repos\ComperatorsAndIterators\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

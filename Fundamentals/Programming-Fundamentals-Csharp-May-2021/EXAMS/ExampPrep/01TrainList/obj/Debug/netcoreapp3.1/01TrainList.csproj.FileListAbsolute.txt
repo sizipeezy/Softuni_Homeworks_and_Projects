@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.exe
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.deps.json
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.dll
+C:\Users\User\source\repos\ExampPrep\01TrainList\bin\Debug\netcoreapp3.1\01TrainList.pdb
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.dll
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.pdb
+C:\Users\User\source\repos\ExampPrep\01TrainList\obj\Debug\netcoreapp3.1\01TrainList.genruntimeconfig.cache

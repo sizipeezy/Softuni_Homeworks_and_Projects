@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.exe
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.deps.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.dll
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\bin\Debug\netcoreapp3.1\02MidExam_MuOnline.pdb
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.dll
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.pdb
+C:\Users\User\source\repos\ExampPrep\02MidExam_MuOnline\obj\Debug\netcoreapp3.1\02MidExam_MuOnline.genruntimeconfig.cache

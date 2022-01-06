@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.exe
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.deps.json
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.dll
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\bin\Debug\netcoreapp3.1\03RoundingNums.pdb
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.dll
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.pdb
+C:\Users\User\source\repos\ExampPrep\03RoundingNums\obj\Debug\netcoreapp3.1\03RoundingNums.genruntimeconfig.cache

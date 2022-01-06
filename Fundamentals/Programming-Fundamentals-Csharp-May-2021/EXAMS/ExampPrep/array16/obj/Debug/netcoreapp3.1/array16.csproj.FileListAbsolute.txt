@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.exe
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.deps.json
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.dll
+C:\Users\User\source\repos\ExampPrep\array16\bin\Debug\netcoreapp3.1\array16.pdb
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.dll
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.pdb
+C:\Users\User\source\repos\ExampPrep\array16\obj\Debug\netcoreapp3.1\array16.genruntimeconfig.cache

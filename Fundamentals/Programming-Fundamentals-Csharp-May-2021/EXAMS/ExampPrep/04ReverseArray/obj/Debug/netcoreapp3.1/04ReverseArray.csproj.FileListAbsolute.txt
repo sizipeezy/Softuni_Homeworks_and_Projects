@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.exe
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.deps.json
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.dll
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\bin\Debug\netcoreapp3.1\04ReverseArray.pdb
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.dll
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.pdb
+C:\Users\User\source\repos\ExampPrep\04ReverseArray\obj\Debug\netcoreapp3.1\04ReverseArray.genruntimeconfig.cache

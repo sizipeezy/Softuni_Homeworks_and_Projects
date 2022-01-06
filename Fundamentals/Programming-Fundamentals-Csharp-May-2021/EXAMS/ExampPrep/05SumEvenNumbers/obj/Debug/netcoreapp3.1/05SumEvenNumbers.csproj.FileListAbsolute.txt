@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.exe
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.deps.json
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.dll
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\bin\Debug\netcoreapp3.1\05SumEvenNumbers.pdb
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.dll
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.pdb
+C:\Users\User\source\repos\ExampPrep\05SumEvenNumbers\obj\Debug\netcoreapp3.1\05SumEvenNumbers.genruntimeconfig.cache

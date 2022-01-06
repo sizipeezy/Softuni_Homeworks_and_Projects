@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.exe
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.deps.json
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.dll
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\bin\Debug\netcoreapp3.1\07StudentAcademy.pdb
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.dll
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.pdb
+C:\Users\User\source\repos\FinalPrep\07StudentAcademy\obj\Debug\netcoreapp3.1\07StudentAcademy.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FoodFinder", "AdvancedExam\01FoodFinder.csproj", "{B142918D-2C17-4F4F-9B5B-D0C2F6028F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02ChessGame", "02ChessGame\02ChessGame.csproj", "{4F3B2290-710C-4343-A914-B3AC57B48E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B142918D-2C17-4F4F-9B5B-D0C2F6028F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B142918D-2C17-4F4F-9B5B-D0C2F6028F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B142918D-2C17-4F4F-9B5B-D0C2F6028F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B142918D-2C17-4F4F-9B5B-D0C2F6028F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3B2290-710C-4343-A914-B3AC57B48E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3B2290-710C-4343-A914-B3AC57B48E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3B2290-710C-4343-A914-B3AC57B48E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3B2290-710C-4343-A914-B3AC57B48E86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D77D4A2-E6AA-450D-8513-9874E26356AA}
+	EndGlobalSection
+EndGlobal

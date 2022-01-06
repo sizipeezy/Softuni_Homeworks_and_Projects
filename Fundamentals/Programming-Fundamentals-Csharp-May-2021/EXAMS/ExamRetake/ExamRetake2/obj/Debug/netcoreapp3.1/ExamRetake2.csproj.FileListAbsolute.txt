@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.exe
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.deps.json
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.runtimeconfig.json
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.dll
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\bin\Debug\netcoreapp3.1\ExamRetake2.pdb
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.dll
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.pdb
+C:\Users\User\source\repos\ExamRetake\ExamRetake2\obj\Debug\netcoreapp3.1\ExamRetake2.genruntimeconfig.cache

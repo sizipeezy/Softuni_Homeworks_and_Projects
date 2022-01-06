@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.exe
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.deps.json
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\Users\User\source\repos\FinalPrep\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.genruntimeconfig.cache

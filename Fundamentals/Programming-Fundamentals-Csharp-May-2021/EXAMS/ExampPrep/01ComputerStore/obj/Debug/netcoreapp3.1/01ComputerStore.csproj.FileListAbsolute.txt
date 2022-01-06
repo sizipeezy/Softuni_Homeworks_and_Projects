@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.exe
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.deps.json
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\Users\User\source\repos\ExampPrep\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.genruntimeconfig.cache

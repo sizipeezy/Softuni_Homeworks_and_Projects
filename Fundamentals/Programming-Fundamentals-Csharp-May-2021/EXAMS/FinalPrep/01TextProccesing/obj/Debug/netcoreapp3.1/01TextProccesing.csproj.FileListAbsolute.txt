@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.exe
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.deps.json
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.dll
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\bin\Debug\netcoreapp3.1\01TextProccesing.pdb
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.dll
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.pdb
+C:\Users\User\source\repos\FinalPrep\01TextProccesing\obj\Debug\netcoreapp3.1\01TextProccesing.genruntimeconfig.cache

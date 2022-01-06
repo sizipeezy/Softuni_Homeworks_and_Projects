@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.exe
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.deps.json
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.runtimeconfig.json
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.dll
+C:\Users\User\source\repos\FinalExam\03TryingBest\bin\Debug\netcoreapp3.1\03TryingBest.pdb
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.dll
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.pdb
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.genruntimeconfig.cache
+C:\Users\User\source\repos\FinalExam\03TryingBest\obj\Debug\netcoreapp3.1\03TryingBest.csprojAssemblyReference.cache

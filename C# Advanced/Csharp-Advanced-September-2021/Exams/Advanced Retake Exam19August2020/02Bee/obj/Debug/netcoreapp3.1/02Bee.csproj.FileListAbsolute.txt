@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.exe
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.deps.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.dev.json
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.dll
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\bin\Debug\netcoreapp3.1\02Bee.pdb
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfo.cs
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.dll
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.pdb
+C:\Users\User\source\repos\Advanced Retake Exam19August2020\02Bee\obj\Debug\netcoreapp3.1\02Bee.genruntimeconfig.cache

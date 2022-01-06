@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.exe
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.deps.json
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.dll
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\bin\Debug\netcoreapp3.1\02Snake.pdb
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.dll
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.pdb
+C:\Users\User\source\repos\AdvancedExam28June2020\02Snake\obj\Debug\netcoreapp3.1\02Snake.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01MidExam_CounterStrike/1.0.0": {
+        "runtime": {
+          "01MidExam_CounterStrike.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01MidExam_CounterStrike/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

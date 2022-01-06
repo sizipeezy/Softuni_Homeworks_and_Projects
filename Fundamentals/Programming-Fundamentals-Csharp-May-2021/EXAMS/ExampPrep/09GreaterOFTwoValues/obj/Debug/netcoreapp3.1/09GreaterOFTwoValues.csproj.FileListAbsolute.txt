@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.exe
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.deps.json
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.dll
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\bin\Debug\netcoreapp3.1\09GreaterOFTwoValues.pdb
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.dll
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.pdb
+C:\Users\User\source\repos\ExampPrep\09GreaterOFTwoValues\obj\Debug\netcoreapp3.1\09GreaterOFTwoValues.genruntimeconfig.cache

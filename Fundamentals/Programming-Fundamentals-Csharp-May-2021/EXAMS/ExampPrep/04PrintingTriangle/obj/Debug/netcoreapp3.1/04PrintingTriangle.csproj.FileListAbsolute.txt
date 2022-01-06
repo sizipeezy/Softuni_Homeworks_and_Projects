@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.exe
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.deps.json
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.dll
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\bin\Debug\netcoreapp3.1\04PrintingTriangle.pdb
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.dll
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.pdb
+C:\Users\User\source\repos\ExampPrep\04PrintingTriangle\obj\Debug\netcoreapp3.1\04PrintingTriangle.genruntimeconfig.cache

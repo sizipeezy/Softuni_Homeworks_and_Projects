@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.exe
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.deps.json
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.dll
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\bin\Debug\netcoreapp3.1\NegativeArraysElements.pdb
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.dll
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.pdb
+C:\Users\User\source\repos\ExampPrep\NegativeArraysElements\obj\Debug\netcoreapp3.1\NegativeArraysElements.genruntimeconfig.cache

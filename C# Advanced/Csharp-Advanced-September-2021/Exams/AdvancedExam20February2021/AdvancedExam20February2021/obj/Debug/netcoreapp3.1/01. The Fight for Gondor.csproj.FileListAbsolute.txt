@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.exe
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.deps.json
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\bin\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.dll
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.pdb
+C:\Users\User\source\repos\AdvancedExam20February2021\AdvancedExam20February2021\obj\Debug\netcoreapp3.1\01. The Fight for Gondor.genruntimeconfig.cache

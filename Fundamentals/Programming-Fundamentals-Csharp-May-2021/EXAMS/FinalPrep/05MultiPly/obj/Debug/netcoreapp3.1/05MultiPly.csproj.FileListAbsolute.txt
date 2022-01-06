@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.exe
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.deps.json
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.dll
+C:\Users\User\source\repos\FinalPrep\05MultiPly\bin\Debug\netcoreapp3.1\05MultiPly.pdb
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.dll
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.pdb
+C:\Users\User\source\repos\FinalPrep\05MultiPly\obj\Debug\netcoreapp3.1\05MultiPly.genruntimeconfig.cache

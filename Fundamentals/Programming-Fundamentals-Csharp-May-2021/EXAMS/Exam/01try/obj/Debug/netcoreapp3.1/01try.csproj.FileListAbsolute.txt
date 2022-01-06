@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.exe
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.deps.json
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.runtimeconfig.json
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.dll
+C:\Users\User\source\repos\Exam\01try\bin\Debug\netcoreapp3.1\01try.pdb
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.dll
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.pdb
+C:\Users\User\source\repos\Exam\01try\obj\Debug\netcoreapp3.1\01try.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.exe
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.deps.json
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.dll
+C:\Users\User\source\repos\ExampPrep\array04\bin\Debug\netcoreapp3.1\array04.pdb
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.dll
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.pdb
+C:\Users\User\source\repos\ExampPrep\array04\obj\Debug\netcoreapp3.1\array04.genruntimeconfig.cache

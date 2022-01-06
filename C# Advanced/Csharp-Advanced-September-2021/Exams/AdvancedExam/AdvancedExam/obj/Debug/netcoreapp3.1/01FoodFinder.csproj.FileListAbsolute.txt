@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.exe
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.deps.json
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.dll
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\bin\Debug\netcoreapp3.1\01FoodFinder.pdb
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.dll
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.pdb
+C:\Users\User\source\repos\AdvancedExam\AdvancedExam\obj\Debug\netcoreapp3.1\01FoodFinder.genruntimeconfig.cache

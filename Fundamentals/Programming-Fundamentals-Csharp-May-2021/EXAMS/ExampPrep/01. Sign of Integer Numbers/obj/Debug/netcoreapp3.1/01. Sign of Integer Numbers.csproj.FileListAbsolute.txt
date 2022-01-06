@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+C:\Users\User\source\repos\ExampPrep\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

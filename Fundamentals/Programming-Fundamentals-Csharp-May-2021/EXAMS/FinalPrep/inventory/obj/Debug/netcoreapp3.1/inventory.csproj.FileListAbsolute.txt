@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.exe
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.deps.json
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.runtimeconfig.json
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.dll
+C:\Users\User\source\repos\FinalPrep\inventory\bin\Debug\netcoreapp3.1\inventory.pdb
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.dll
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.pdb
+C:\Users\User\source\repos\FinalPrep\inventory\obj\Debug\netcoreapp3.1\inventory.genruntimeconfig.cache

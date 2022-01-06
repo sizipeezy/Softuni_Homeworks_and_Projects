@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.exe
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.deps.json
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.dll
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\bin\Debug\netcoreapp3.1\02Garden.pdb
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.dll
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.pdb
+C:\Users\User\source\repos\AdvancedExam-25October2020\02Garden\obj\Debug\netcoreapp3.1\02Garden.genruntimeconfig.cache

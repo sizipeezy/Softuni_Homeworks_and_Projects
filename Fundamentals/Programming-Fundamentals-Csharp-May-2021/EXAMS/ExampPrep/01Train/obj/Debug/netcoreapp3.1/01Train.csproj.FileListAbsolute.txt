@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.exe
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.deps.json
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.runtimeconfig.json
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.dll
+C:\Users\User\source\repos\ExampPrep\01Train\bin\Debug\netcoreapp3.1\01Train.pdb
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.AssemblyInfo.cs
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.dll
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.pdb
+C:\Users\User\source\repos\ExampPrep\01Train\obj\Debug\netcoreapp3.1\01Train.genruntimeconfig.cache

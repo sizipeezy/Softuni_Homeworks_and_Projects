@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.exe
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.deps.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.runtimeconfig.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.runtimeconfig.dev.json
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.dll
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\bin\Debug\netcoreapp3.1\02Revolt.pdb
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.AssemblyInfo.cs
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.dll
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.pdb
+C:\Users\User\source\repos\AdvancedExam-22Feb2020\02Revolt\obj\Debug\netcoreapp3.1\02Revolt.genruntimeconfig.cache
